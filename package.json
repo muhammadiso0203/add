@@ -1,0 +1,19 @@
+{
+  "name": "vazifa",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "start:dev": "node --watch app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "cookie": "^1.0.2",
+    "cookie-parser": "^1.4.7",
+    "env": "^0.0.2",
+    "express": "^4.21.2"
+  }
+}
